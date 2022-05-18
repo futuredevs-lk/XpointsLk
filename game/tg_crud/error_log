@@ -1,0 +1,18 @@
+[02-May-2022 15:53:16 UTC] PHP Parse error:  syntax error, unexpected 'dbcmd' (T_STRING) in /home/xpointsl/public_html/game/tg_crud/task-claim-reward.php on line 42
+[04-May-2022 03:19:27 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/game/tg_crud/task-fetch.php on line 24
+[07-May-2022 04:32:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/game/tg_crud/task-fetch.php on line 24
+[07-May-2022 09:09:24 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[07-May-2022 09:12:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[07-May-2022 09:13:49 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[07-May-2022 09:19:56 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[07-May-2022 09:31:26 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[07-May-2022 09:31:40 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[07-May-2022 10:04:13 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[07-May-2022 21:14:35 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[08-May-2022 20:59:43 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[08-May-2022 21:04:28 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[08-May-2022 22:33:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[09-May-2022 06:25:33 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[09-May-2022 06:31:40 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[09-May-2022 06:35:14 Asia/Kolkata] PHP Warning:  Illegal string offset 'bottle_id' in /home/xpointsl/public_html/game/tg_crud/tg_asset_use.php on line 85
+[09-May-2022 01:06:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/xpointsl/public_html/game/tg_crud/check-timers.php on line 23

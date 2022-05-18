@@ -1,0 +1,75 @@
+/*---------------------------------------------------*/
+/*for desktop*/
+
+
+@media only screen and (min-width: 540px) {
+  .desk-mw {
+    max-width: 50vw;
+    margin: auto;
+  }
+
+}
+@media only screen and (min-width: 1024px) {
+  .desk-mw {
+    max-width: 540px;
+  }
+
+}
+
+/*for mobile devices*/
+@media only screen and (max-width: 540px) {
+  body,
+  .sidenav,
+  .header {
+    max-width: unset;
+  }
+  .desk-mw {
+    max-width: unset;
+  }
+
+  .xp-vendors {
+    display: none;
+  }
+}
+
+/*-----------------------------------------------*/
+
+@media only screen and (min-width: 1024px) {
+  html {
+    font-size: 17px;
+  }
+
+  
+}
+@media only screen and (max-width: 1024px) {
+  html {
+    font-size: 17px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 414px) {
+  html {
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 375px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  html {
+    font-size: 11px;
+  }
+}
+@media only screen and (max-width: 280px) {
+  html {
+    font-size: 10px;
+  }
+}

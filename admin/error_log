@@ -1,0 +1,862 @@
+[04-Mar-2022 17:25:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[04-Mar-2022 17:31:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Mar-2022 17:31:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Mar-2022 17:33:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[04-Mar-2022 17:39:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[04-Mar-2022 17:39:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[04-Mar-2022 22:54:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[04-Mar-2022 22:54:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[04-Mar-2022 19:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:11:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:11:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:12:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:12:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:13:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:14:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:17:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[04-Mar-2022 19:19:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uploadFiles() in /home/xpointsl/public_html/admin/settings.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 4
+[05-Mar-2022 13:31:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[05-Mar-2022 13:32:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[05-Mar-2022 08:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dbget() in /home/xpointsl/public_html/admin/settings.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/settings.php on line 53
+[05-Mar-2022 15:13:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[05-Mar-2022 15:13:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[05-Mar-2022 15:13:27 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[05-Mar-2022 15:13:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[05-Mar-2022 15:14:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[05-Mar-2022 15:17:25 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 439
+[07-Mar-2022 22:05:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[07-Mar-2022 22:23:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[07-Mar-2022 22:23:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[08-Mar-2022 23:47:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[08-Mar-2022 23:47:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[10-Mar-2022 15:18:37 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[10-Mar-2022 15:18:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[10-Mar-2022 15:18:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[10-Mar-2022 15:20:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[10-Mar-2022 15:20:23 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[10-Mar-2022 15:20:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[10-Mar-2022 22:58:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 441
+[20-Mar-2022 19:16:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dbget() in /home/xpointsl/public_html/admin/reward_user.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/xpointsl/public_html/admin/reward_user.php on line 76
+[23-Mar-2022 07:44:04 UTC] PHP Parse error:  syntax error, unexpected 'lazy' (T_STRING), expecting ';' or ',' in /home/xpointsl/public_html/admin/ad_manager.php on line 89
+[23-Mar-2022 07:44:23 UTC] PHP Parse error:  syntax error, unexpected 'lazy' (T_STRING), expecting ';' or ',' in /home/xpointsl/public_html/admin/ad_manager.php on line 89
+[04-Apr-2022 17:16:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:17:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:17:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:18:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:19:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:19:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:20:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:20:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:22:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:23:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:24:10 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:24:36 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:24:55 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:25:37 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:26:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:27:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:28:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:28:36 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:31:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:32:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 440
+[04-Apr-2022 17:37:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:37:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:38:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:38:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:38:34 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:38:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:38:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:42:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:42:53 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:44:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:46:23 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:46:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:52:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:52:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:52:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:53:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:53:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:53:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:55:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:56:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:56:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:56:25 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 446
+[04-Apr-2022 17:59:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 449
+[04-Apr-2022 18:03:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 449
+[04-Apr-2022 18:04:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 449
+[04-Apr-2022 18:10:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[04-Apr-2022 18:13:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[04-Apr-2022 18:14:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[04-Apr-2022 18:14:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[04-Apr-2022 18:18:34 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[04-Apr-2022 18:21:46 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[04-Apr-2022 18:22:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[04-Apr-2022 18:23:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[04-Apr-2022 18:24:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[04-Apr-2022 18:24:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[04-Apr-2022 18:26:49 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[11-Apr-2022 23:28:32 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 130
+[11-Apr-2022 23:28:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 130
+[11-Apr-2022 23:29:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 130
+[11-Apr-2022 23:29:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 130
+[11-Apr-2022 23:29:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 130
+[11-Apr-2022 23:29:52 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 130
+[11-Apr-2022 23:33:23 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 130
+[11-Apr-2022 23:33:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 130
+[13-Apr-2022 14:14:27 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 453
+[18-Apr-2022 17:50:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 108
+[18-Apr-2022 17:52:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 108
+[18-Apr-2022 18:09:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 108
+[18-Apr-2022 18:12:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 108
+[18-Apr-2022 18:20:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 108
+[18-Apr-2022 18:20:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 108
+[18-Apr-2022 18:23:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 108
+[18-Apr-2022 18:23:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 130
+[18-Apr-2022 18:23:23 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 108
+[18-Apr-2022 18:23:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 108
+[19-Apr-2022 03:20:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/ajax-response.php on line 130
+[19-Apr-2022 23:27:51 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(1200x630.png): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 66
+[19-Apr-2022 23:27:51 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 72
+[19-Apr-2022 23:27:51 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[19-Apr-2022 23:27:51 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 75
+[19-Apr-2022 23:27:51 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 88
+[19-Apr-2022 23:27:51 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 100
+[19-Apr-2022 23:27:51 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/thumbnails): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 101
+[19-Apr-2022 23:32:37 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/tmp/php4wMeXa): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 66
+[19-Apr-2022 23:32:37 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 72
+[19-Apr-2022 23:32:37 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[19-Apr-2022 23:32:37 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 75
+[19-Apr-2022 23:32:37 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 88
+[19-Apr-2022 23:32:37 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 100
+[19-Apr-2022 23:32:37 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/thumbnails): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 101
+[19-Apr-2022 23:35:13 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/tmp/phps6fapy): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 66
+[19-Apr-2022 23:35:13 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 72
+[19-Apr-2022 23:35:13 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[19-Apr-2022 23:35:13 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 75
+[19-Apr-2022 23:35:13 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 88
+[19-Apr-2022 23:35:13 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 100
+[19-Apr-2022 23:35:13 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/magical-tree.gif): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 101
+[19-Apr-2022 23:47:24 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/tmp/phpuEiOu2): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 67
+[19-Apr-2022 23:47:24 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[19-Apr-2022 23:47:24 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[19-Apr-2022 23:47:24 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[19-Apr-2022 23:47:24 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[19-Apr-2022 23:47:24 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[19-Apr-2022 23:47:24 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/vendors/tmp-07jSaHdGU2iqWOdB8PHRbqp-4..v1599067386.png): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[19-Apr-2022 23:50:07 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/assets/uploads/vendors/tree-story-app-banner-planting-trees-500x191.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 67
+[19-Apr-2022 23:50:07 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[19-Apr-2022 23:50:07 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[19-Apr-2022 23:50:07 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[19-Apr-2022 23:50:07 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[19-Apr-2022 23:50:07 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[19-Apr-2022 23:50:07 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/vendors/tmp-tree-story-app-banner-planting-trees-500x191.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[19-Apr-2022 23:53:42 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/tmp/phpwZuII1): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 67
+[19-Apr-2022 23:53:42 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[19-Apr-2022 23:53:42 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[19-Apr-2022 23:53:42 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[19-Apr-2022 23:53:42 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[19-Apr-2022 23:53:42 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[19-Apr-2022 23:53:42 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/vendors/tree-story-app-banner-planting-trees-500x191.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[19-Apr-2022 23:55:36 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/tmp/phpMUVOFr): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 67
+[19-Apr-2022 23:55:36 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[19-Apr-2022 23:55:36 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[19-Apr-2022 23:55:36 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[19-Apr-2022 23:55:36 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[19-Apr-2022 23:55:36 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[19-Apr-2022 23:55:36 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/vendors/yimg-eSQwli-640x512.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[19-Apr-2022 23:58:58 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/tmp/phpZv6zEY): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 67
+[19-Apr-2022 23:58:58 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[19-Apr-2022 23:58:58 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[19-Apr-2022 23:58:58 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[19-Apr-2022 23:58:58 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[19-Apr-2022 23:58:58 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[19-Apr-2022 23:58:58 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/vendors/product-add.php): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[19-Apr-2022 23:59:19 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/tmp/php0ae2TN): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 67
+[19-Apr-2022 23:59:19 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[19-Apr-2022 23:59:19 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[19-Apr-2022 23:59:19 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[19-Apr-2022 23:59:19 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[19-Apr-2022 23:59:19 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[19-Apr-2022 23:59:19 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/vendors/07jSaHdGU2iqWOdB8PHRbqp-4..v1599067386.png): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[20-Apr-2022 00:07:48 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/tmp/phppBUrxE): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 67
+[20-Apr-2022 00:07:48 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[20-Apr-2022 00:07:48 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[20-Apr-2022 00:07:48 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[20-Apr-2022 00:07:48 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[20-Apr-2022 00:07:48 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[20-Apr-2022 00:07:48 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/vendors/images.png): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[20-Apr-2022 00:10:48 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/assets/uploads/vendors/images.png): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 67
+[20-Apr-2022 00:10:48 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[20-Apr-2022 00:10:48 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[20-Apr-2022 00:10:48 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[20-Apr-2022 00:10:48 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[20-Apr-2022 00:10:48 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[20-Apr-2022 00:10:48 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/vendors/temp-images.png): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[20-Apr-2022 00:12:06 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/vendors/temp-yimg-eSQwli-640x512.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[20-Apr-2022 02:05:19 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/home/xpointsl/public_html/assets/uploads/vendors/07jSaHdGU2iqWOdB8PHRbqp-4..v1599067386.png-thumb): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 69
+[20-Apr-2022 02:05:19 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[20-Apr-2022 02:05:19 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 75
+[20-Apr-2022 02:05:19 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 02:05:19 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 90
+[20-Apr-2022 02:05:19 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 102
+[20-Apr-2022 02:08:00 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 68
+[20-Apr-2022 02:08:00 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/vendors/07jSaHdGU2iqWOdB8PHRbqp-4..v1599067386.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 68
+[20-Apr-2022 02:08:00 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[20-Apr-2022 02:08:00 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[20-Apr-2022 02:08:00 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[20-Apr-2022 02:08:00 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[20-Apr-2022 02:08:00 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[20-Apr-2022 02:13:26 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 68
+[20-Apr-2022 02:13:26 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/__user_uploads/user__ay/article/07jSaHdGU2iqWOdB8PHRbqp-4..v1599067386.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 68
+[20-Apr-2022 02:13:26 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[20-Apr-2022 02:13:26 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[20-Apr-2022 02:13:26 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[20-Apr-2022 02:13:26 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[20-Apr-2022 02:13:26 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[20-Apr-2022 02:13:28 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x25 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 68
+[20-Apr-2022 02:13:28 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/articles/Info Byte/Og:Image Check/ISTQB-CTFL-Syllabus-2018-v3.1.1.pdf' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 68
+[20-Apr-2022 02:13:28 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[20-Apr-2022 02:13:28 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[20-Apr-2022 02:13:28 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[20-Apr-2022 02:13:28 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[20-Apr-2022 02:13:28 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[20-Apr-2022 02:18:27 Asia/Kolkata] PHP Warning:  imagejpeg(/home/xpointsl/public_html/assets/uploads/__user_uploads/user__ay/article/): failed to open stream: Is a directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[20-Apr-2022 02:18:27 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x25 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 68
+[20-Apr-2022 02:18:27 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/articles/Info Byte/Og:Image Check/scheme.pdf' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 68
+[20-Apr-2022 02:18:27 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[20-Apr-2022 02:18:27 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[20-Apr-2022 02:18:27 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[20-Apr-2022 02:18:27 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[20-Apr-2022 02:18:27 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[20-Apr-2022 02:18:27 Asia/Kolkata] PHP Warning:  imagejpeg(/home/xpointsl/public_html/assets/uploads/articles/Info Byte/Og:Image Check/): failed to open stream: Is a directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[20-Apr-2022 02:30:10 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/thumbnails/tree-story-app-banner-planting-trees-500x191.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[20-Apr-2022 02:30:10 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x3c 0x3f in /home/xpointsl/public_html/assets/php/server.php on line 68
+[20-Apr-2022 02:30:10 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/articles/கவிதை/Og:Image Check/product-add.php' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 68
+[20-Apr-2022 02:30:10 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 73
+[20-Apr-2022 02:30:10 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 74
+[20-Apr-2022 02:30:10 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 76
+[20-Apr-2022 02:30:10 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 89
+[20-Apr-2022 02:30:10 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 101
+[20-Apr-2022 02:30:10 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/thumbnails/product-add.php): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 102
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/assets/thumbnails/assets/uploads/__user_uploads/user__ay/article/tree-story-app-banner-planting-trees-500x191.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 70
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 75
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 76
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 91
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 103
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/thumbnails/assets/uploads/__user_uploads/user__ay/article/tree-story-app-banner-planting-trees-500x191.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 104
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/assets/thumbnails/assets/uploads/articles/Info Byte/sdsdf/scheme.pdf): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 70
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 75
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 76
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 91
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 103
+[20-Apr-2022 02:51:20 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/thumbnails/assets/uploads/articles/Info Byte/sdsdf/scheme.pdf): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 104
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  move_uploaded_file(/assets/uploads/thumbnails/yimg-eSQwli-640x512.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 57
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphgKMYy' to '/assets/uploads/thumbnails/yimg-eSQwli-640x512.jpg' in /home/xpointsl/public_html/assets/php/server.php on line 57
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/assets/uploads/thumbnails/yimg-eSQwli-640x512.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/thumbnails/yimg-eSQwli-640x512.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 106
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  move_uploaded_file(/assets/uploads/thumbnails/Pond-PNG-Clipart-957.png): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 57
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php01mGNt' to '/assets/uploads/thumbnails/Pond-PNG-Clipart-957.png' in /home/xpointsl/public_html/assets/php/server.php on line 57
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/assets/uploads/thumbnails/Pond-PNG-Clipart-957.png): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 02:54:20 Asia/Kolkata] PHP Warning:  imagejpeg(/assets/uploads/thumbnails/Pond-PNG-Clipart-957.png): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 106
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/thumbnails/Pond-PNG-Clipart-957.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x47 0x49 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/thumbnails/magical-tree.gif' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 02:58:55 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 03:02:34 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x25 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:02:34 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/thumbnails/ISTQB-CTFL-Syllabus-2018-v3.1.1.pdf' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:02:34 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 03:02:34 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 03:02:34 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 03:02:34 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 03:02:34 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/home/xpointsl/public_html/assets/uploads/thumbnails/BK-UK-King-of-the-Day.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/home/xpointsl/public_html/assets/uploads/thumbnails/images.png): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 03:04:08 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 03:07:58 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/home/xpointsl/public_html/assets/uploads/thumbnails/IMG-20220319-015826.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:07:58 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 03:07:58 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 03:07:58 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 03:07:58 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 03:07:58 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 03:10:08 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(/home/xpointsl/public_html/assets/uploads/thumbnails/IMG-20220319-021240.jpg): failed to open stream: No such file or directory in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:10:08 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 03:10:08 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 03:10:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 03:10:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 03:10:08 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x47 0x49 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/__user_uploads/user__ay/article/morgan-hilber-gif-newbackground-final.gif' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x47 0x49 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/articles/Info Byte/iuoi/morgan-hilber-gif-newbackground-final.gif' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 03:16:19 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[20-Apr-2022 03:22:25 Asia/Kolkata] PHP Warning:  pathinfo() expects parameter 1 to be string, array given in /home/xpointsl/public_html/assets/php/server.php on line 59
+[20-Apr-2022 03:22:29 Asia/Kolkata] PHP Warning:  pathinfo() expects parameter 1 to be string, array given in /home/xpointsl/public_html/assets/php/server.php on line 59
+[20-Apr-2022 03:24:02 Asia/Kolkata] PHP Warning:  pathinfo() expects parameter 1 to be string, array given in /home/xpointsl/public_html/assets/php/server.php on line 59
+[20-Apr-2022 03:24:02 Asia/Kolkata] PHP Warning:  pathinfo() expects parameter 1 to be string, array given in /home/xpointsl/public_html/assets/php/server.php on line 59
+[20-Apr-2022 03:28:02 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x47 0x49 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:28:02 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/articles/Info Byte/rtrtrtrt/morgan-hilber-gif-newbackground-final.gif' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[20-Apr-2022 03:28:02 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[20-Apr-2022 03:28:02 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[20-Apr-2022 03:28:02 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[20-Apr-2022 03:28:02 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[20-Apr-2022 03:28:02 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[21-Apr-2022 20:02:49 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0xff 0xfb in /home/xpointsl/public_html/assets/php/server.php on line 72
+[21-Apr-2022 20:02:49 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/audio.mp3' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[21-Apr-2022 20:02:49 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[21-Apr-2022 20:02:49 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[21-Apr-2022 20:02:49 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[21-Apr-2022 20:02:49 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[21-Apr-2022 20:02:49 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[21-Apr-2022 20:10:42 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x49 0x44 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[21-Apr-2022 20:10:42 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/y2mate.com---Alan-Walker--Faded.mp3' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[21-Apr-2022 20:10:42 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[21-Apr-2022 20:10:42 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[21-Apr-2022 20:10:42 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[21-Apr-2022 20:10:42 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[21-Apr-2022 20:10:42 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[21-Apr-2022 20:13:28 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x49 0x44 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[21-Apr-2022 20:13:28 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/y2mate.com---Eminem--Rap-God-Explicit.mp3' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[21-Apr-2022 20:13:28 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[21-Apr-2022 20:13:28 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[21-Apr-2022 20:13:28 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[21-Apr-2022 20:13:28 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[21-Apr-2022 20:13:28 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[21-Apr-2022 20:18:00 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0xff 0xfb in /home/xpointsl/public_html/assets/php/server.php on line 72
+[21-Apr-2022 20:18:00 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/Water-Dripping-A1-www.fesliyanstudios.com--1-.mp3' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[21-Apr-2022 20:18:00 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[21-Apr-2022 20:18:00 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[21-Apr-2022 20:18:00 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[21-Apr-2022 20:18:00 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[21-Apr-2022 20:18:00 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[21-Apr-2022 17:39:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/xpointsl/public_html/admin/index.php on line 155
+[22-Apr-2022 16:58:45 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x49 0x44 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[22-Apr-2022 16:58:45 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/YouTube-mp3cut--mp3cut.net-' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[22-Apr-2022 16:58:45 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[22-Apr-2022 16:58:45 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[22-Apr-2022 16:58:45 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[22-Apr-2022 16:58:45 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[22-Apr-2022 16:58:45 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[23-Apr-2022 22:24:58 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:24:58 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/bace1.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:24:58 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[23-Apr-2022 22:24:58 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[23-Apr-2022 22:24:58 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[23-Apr-2022 22:24:58 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[23-Apr-2022 22:24:58 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[23-Apr-2022 22:25:08 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:25:08 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/bace1.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:25:08 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[23-Apr-2022 22:25:08 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[23-Apr-2022 22:25:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[23-Apr-2022 22:25:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[23-Apr-2022 22:25:08 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[23-Apr-2022 22:27:47 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:27:47 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/bace1.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:27:47 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[23-Apr-2022 22:27:47 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[23-Apr-2022 22:27:47 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[23-Apr-2022 22:27:47 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[23-Apr-2022 22:27:47 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[23-Apr-2022 22:28:04 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:28:04 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/bace1.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:28:04 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[23-Apr-2022 22:28:04 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[23-Apr-2022 22:28:04 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[23-Apr-2022 22:28:04 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[23-Apr-2022 22:28:04 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[23-Apr-2022 22:28:15 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:28:15 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/bace1.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:28:15 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[23-Apr-2022 22:28:15 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[23-Apr-2022 22:28:15 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[23-Apr-2022 22:28:15 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[23-Apr-2022 22:28:15 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[23-Apr-2022 22:30:13 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:30:13 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/full-png.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:30:13 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[23-Apr-2022 22:30:13 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[23-Apr-2022 22:30:13 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[23-Apr-2022 22:30:13 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[23-Apr-2022 22:30:13 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[23-Apr-2022 22:30:38 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:30:38 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/full-png.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 22:30:38 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[23-Apr-2022 22:30:38 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[23-Apr-2022 22:30:38 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[23-Apr-2022 22:30:38 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[23-Apr-2022 22:30:38 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[23-Apr-2022 23:01:06 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 23:01:06 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/green/poison.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[23-Apr-2022 23:01:06 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[23-Apr-2022 23:01:06 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[23-Apr-2022 23:01:06 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[23-Apr-2022 23:01:06 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[23-Apr-2022 23:01:06 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[24-Apr-2022 01:52:43 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[24-Apr-2022 01:52:43 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/tree-1.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[24-Apr-2022 01:52:43 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[24-Apr-2022 01:52:43 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[24-Apr-2022 01:52:43 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[24-Apr-2022 01:52:43 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[24-Apr-2022 01:52:43 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[24-Apr-2022 01:59:55 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[24-Apr-2022 01:59:55 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/1/water-pump.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[24-Apr-2022 01:59:55 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[24-Apr-2022 01:59:55 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[24-Apr-2022 01:59:55 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[24-Apr-2022 01:59:55 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[24-Apr-2022 01:59:55 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[24-Apr-2022 02:01:30 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[24-Apr-2022 02:01:30 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/1/water-pump.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[24-Apr-2022 02:01:30 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[24-Apr-2022 02:01:30 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[24-Apr-2022 02:01:30 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[24-Apr-2022 02:01:30 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[24-Apr-2022 02:01:30 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[24-Apr-2022 02:03:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[24-Apr-2022 02:03:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[24-Apr-2022 02:03:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[24-Apr-2022 02:25:36 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[24-Apr-2022 02:25:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[24-Apr-2022 02:26:50 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x49 0x44 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[24-Apr-2022 02:26:50 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/Chrome--mp3cut.net-' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[24-Apr-2022 02:26:50 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[24-Apr-2022 02:26:50 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[24-Apr-2022 02:26:50 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[24-Apr-2022 02:26:50 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[24-Apr-2022 02:26:50 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[24-Apr-2022 02:26:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 01:19:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 01:19:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 01:19:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 01:33:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 01:34:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 01:35:12 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 01:35:12 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/3/stone.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 01:35:12 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[25-Apr-2022 01:35:12 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[25-Apr-2022 01:35:12 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[25-Apr-2022 01:35:12 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[25-Apr-2022 01:35:12 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[25-Apr-2022 01:35:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 01:45:31 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 01:45:31 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/X10/o-stone.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 01:45:31 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[25-Apr-2022 01:45:31 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[25-Apr-2022 01:45:31 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[25-Apr-2022 01:45:31 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[25-Apr-2022 01:45:31 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[25-Apr-2022 01:45:32 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 01:47:46 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 02:04:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 02:04:24 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 02:04:24 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/Green Stone/green-stone.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 02:04:24 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[25-Apr-2022 02:04:24 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[25-Apr-2022 02:04:24 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[25-Apr-2022 02:04:24 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[25-Apr-2022 02:04:24 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[25-Apr-2022 02:04:25 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/4/Green-stone-MT-b.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/1000/Green-stone-MT-b.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[25-Apr-2022 02:08:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 02:20:56 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 03:25:40 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 03:25:40 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/main-post.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 03:25:40 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[25-Apr-2022 03:25:40 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[25-Apr-2022 03:25:40 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[25-Apr-2022 03:25:40 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[25-Apr-2022 03:25:40 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[25-Apr-2022 03:29:09 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 03:29:09 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/main-post.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[25-Apr-2022 03:29:09 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[25-Apr-2022 03:29:09 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[25-Apr-2022 03:29:09 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[25-Apr-2022 03:29:09 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[25-Apr-2022 03:29:09 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[25-Apr-2022 23:09:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 23:09:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 23:10:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 23:13:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[25-Apr-2022 23:15:39 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[26-Apr-2022 01:13:21 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:13:21 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/guid.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:13:21 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 01:13:21 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 01:13:21 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 01:13:21 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 01:13:21 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 01:38:37 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:38:37 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/guid.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:38:37 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 01:38:37 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 01:38:37 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 01:38:37 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 01:38:37 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 01:40:03 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:40:03 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/guid.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:40:03 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 01:40:03 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 01:40:03 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 01:40:03 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 01:40:03 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 01:40:47 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:40:47 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/guid.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:40:47 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 01:40:47 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 01:40:47 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 01:40:47 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 01:40:47 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 01:41:11 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:41:11 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/guid.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:41:11 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 01:41:11 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 01:41:11 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 01:41:11 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 01:41:11 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 01:42:27 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:42:27 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/guid---Copy.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:42:27 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 01:42:27 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 01:42:27 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 01:42:27 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 01:42:27 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 01:42:49 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:42:49 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/guid---Copy.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:42:49 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 01:42:49 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 01:42:49 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 01:42:49 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 01:42:49 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 01:54:53 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:54:53 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/how-to-play.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 01:54:53 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 01:54:53 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 01:54:53 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 01:54:53 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 01:54:53 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 02:52:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[26-Apr-2022 02:52:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[26-Apr-2022 02:53:08 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 02:53:08 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/shop-icon.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 02:53:08 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 02:53:08 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 02:53:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 02:53:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 02:53:08 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 02:53:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[26-Apr-2022 17:47:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[26-Apr-2022 17:47:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[26-Apr-2022 17:48:03 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 17:48:03 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/Copper/copper.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 17:48:03 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 17:48:03 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 17:48:03 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 17:48:03 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 17:48:03 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 17:48:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[26-Apr-2022 17:50:36 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 17:50:36 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/Gold/gold.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 17:50:36 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 17:50:36 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 17:50:36 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 17:50:36 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 17:50:36 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 17:50:37 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[26-Apr-2022 17:50:51 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 17:50:51 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/Silver/copper.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[26-Apr-2022 17:50:51 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[26-Apr-2022 17:50:51 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[26-Apr-2022 17:50:51 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[26-Apr-2022 17:50:51 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[26-Apr-2022 17:50:51 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[26-Apr-2022 17:50:52 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[27-Apr-2022 23:14:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[27-Apr-2022 23:14:23 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[28-Apr-2022 14:42:52 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[28-Apr-2022 14:42:52 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/download.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[28-Apr-2022 14:42:52 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[28-Apr-2022 14:42:52 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[28-Apr-2022 14:42:52 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[28-Apr-2022 14:42:52 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[28-Apr-2022 14:42:52 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[28-Apr-2022 17:36:47 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[28-Apr-2022 17:36:47 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/task-done-flat.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[28-Apr-2022 17:36:47 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[28-Apr-2022 17:36:47 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[28-Apr-2022 17:36:47 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[28-Apr-2022 17:36:47 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[28-Apr-2022 17:36:47 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[30-Apr-2022 02:14:24 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[30-Apr-2022 02:14:24 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/Xpoints/free-settings-icon-3110-thumb.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[30-Apr-2022 02:14:24 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[30-Apr-2022 02:14:24 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[30-Apr-2022 02:14:24 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[30-Apr-2022 02:14:24 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[30-Apr-2022 02:14:24 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[01-May-2022 00:16:56 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 00:16:56 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/Silver/sillver.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 00:16:56 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[01-May-2022 00:16:56 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[01-May-2022 00:16:56 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[01-May-2022 00:16:56 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[01-May-2022 00:16:56 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[01-May-2022 00:27:37 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 00:27:37 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/setings.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 00:27:37 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[01-May-2022 00:27:37 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[01-May-2022 00:27:37 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[01-May-2022 00:27:37 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[01-May-2022 00:27:37 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[01-May-2022 03:42:32 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 03:42:32 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/task.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 03:42:32 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[01-May-2022 03:42:32 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[01-May-2022 03:42:32 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[01-May-2022 03:42:32 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[01-May-2022 03:42:32 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[01-May-2022 03:42:54 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 03:42:54 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/setings.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 03:42:54 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[01-May-2022 03:42:54 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[01-May-2022 03:42:54 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[01-May-2022 03:42:54 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[01-May-2022 03:42:54 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[01-May-2022 03:46:35 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 03:46:35 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/my-asset.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 03:46:35 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[01-May-2022 03:46:35 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[01-May-2022 03:46:35 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[01-May-2022 03:46:35 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[01-May-2022 03:46:35 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[01-May-2022 03:55:29 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 03:55:29 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/_main_elements/rank.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[01-May-2022 03:55:29 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[01-May-2022 03:55:29 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[01-May-2022 03:55:29 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[01-May-2022 03:55:29 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[01-May-2022 03:55:29 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[02-May-2022 02:39:08 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[02-May-2022 02:39:08 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/tg_core_images/story_slides/full-png.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[02-May-2022 02:39:08 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[02-May-2022 02:39:08 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[02-May-2022 02:39:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[02-May-2022 02:39:08 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[02-May-2022 02:39:08 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[02-May-2022 02:40:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 02:40:52 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 02:40:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 02:41:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 02:42:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 02:48:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 02:49:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 19:27:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 19:27:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 19:28:58 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 20:19:46 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 20:19:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 20:20:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 20:21:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:00:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:00:36 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:16:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:16:36 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:24:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:24:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:24:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:24:37 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:24:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:24:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[02-May-2022 22:24:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[03-May-2022 03:44:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[03-May-2022 03:44:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[03-May-2022 04:01:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[03-May-2022 04:01:25 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[03-May-2022 15:12:49 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[04-May-2022 01:38:42 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[04-May-2022 01:38:47 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[04-May-2022 01:39:39 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[04-May-2022 02:27:27 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[04-May-2022 02:27:39 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[04-May-2022 03:14:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[04-May-2022 03:18:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[04-May-2022 03:18:34 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[04-May-2022 03:20:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[04-May-2022 03:47:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[05-May-2022 03:08:53 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[05-May-2022 03:08:58 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[05-May-2022 03:09:23 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[05-May-2022 03:09:23 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/7/poison.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[05-May-2022 03:09:23 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[05-May-2022 03:09:23 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[05-May-2022 03:09:23 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[05-May-2022 03:09:23 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[05-May-2022 03:09:23 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[05-May-2022 03:09:23 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[05-May-2022 03:46:14 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[05-May-2022 03:46:14 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads//tg_core_images/Level-1/6/witch.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[05-May-2022 03:46:14 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[05-May-2022 03:46:14 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[05-May-2022 03:46:14 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[05-May-2022 03:46:14 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[05-May-2022 03:46:14 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[05-May-2022 03:46:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[06-May-2022 07:58:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[06-May-2022 07:58:46 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 04:20:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 04:20:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 04:22:23 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 04:22:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 04:32:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 09:07:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 09:07:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 09:07:49 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 09:28:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 10:03:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 21:11:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 21:11:49 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 21:13:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 21:14:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[07-May-2022 21:15:53 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[08-May-2022 05:34:59 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[08-May-2022 05:34:59 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/n.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[08-May-2022 05:34:59 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[08-May-2022 05:34:59 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[08-May-2022 05:34:59 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[08-May-2022 05:34:59 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[08-May-2022 05:34:59 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[08-May-2022 20:33:37 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[08-May-2022 20:33:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[08-May-2022 20:57:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[08-May-2022 20:57:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[08-May-2022 20:59:10 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/xpointsl/public_html/admin/game-maintain.php on line 454
+[10-May-2022 00:24:44 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[10-May-2022 00:24:44 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/site-core-images/n-1.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[10-May-2022 00:24:44 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[10-May-2022 00:24:44 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[10-May-2022 00:24:44 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[10-May-2022 00:24:44 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[10-May-2022 00:24:44 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[10-May-2022 02:06:18 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x49 0x44 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[10-May-2022 02:06:18 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/__user_uploads/user__X bee/posts/Devuda-Devuda.mp3' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[10-May-2022 02:06:18 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[10-May-2022 02:06:18 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[10-May-2022 02:06:18 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[10-May-2022 02:06:18 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[10-May-2022 02:06:18 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[10-May-2022 23:15:31 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[10-May-2022 23:15:31 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/__user_uploads/user__X bee/posts/free-settings-icon-3110-thumb.png' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[10-May-2022 23:15:31 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[10-May-2022 23:15:31 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[10-May-2022 23:15:31 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[10-May-2022 23:15:31 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[10-May-2022 23:15:31 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105
+[12-May-2022 15:40:59 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x47 0x49 in /home/xpointsl/public_html/assets/php/server.php on line 72
+[12-May-2022 15:40:59 Asia/Kolkata] PHP Warning:  imagecreatefromjpeg(): '/home/xpointsl/public_html/assets/uploads/tg_core_images/story_slides/morgan-hilber-gif-newbackground-final.gif' is not a valid JPEG file in /home/xpointsl/public_html/assets/php/server.php on line 72
+[12-May-2022 15:40:59 Asia/Kolkata] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 77
+[12-May-2022 15:40:59 Asia/Kolkata] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 78
+[12-May-2022 15:40:59 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 80
+[12-May-2022 15:40:59 Asia/Kolkata] PHP Warning:  Division by zero in /home/xpointsl/public_html/assets/php/server.php on line 93
+[12-May-2022 15:40:59 Asia/Kolkata] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/xpointsl/public_html/assets/php/server.php on line 105

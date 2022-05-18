@@ -1,0 +1,205 @@
+.body-widget {
+  padding: 2% 0;
+}
+
+.slick-slide {
+  height: unset;
+}
+
+.post-uploader {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.post-uploader img {
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.title button {
+  height: 2.4rem;
+  width: 40%;
+  border-radius: 1rem;
+  margin: auto;
+}
+
+.post-head,
+.footer-icons {
+  display: flex;
+}
+
+.post-head,
+.post-footer {
+  align-items: center;
+}
+
+.uploader-name {
+  margin-left: 2%;
+}
+
+.post-file {
+  height: 40vh;
+}
+
+.post-file img,
+embed,
+audio,
+video {
+  object-fit: contain;
+  height: 100%;
+}
+
+audio {
+  width: 100%;
+}
+
+.footer-icons * {
+  font-size: 100%;
+  margin: auto;
+  cursor: pointer;
+}
+
+.post-caption {
+  padding-left: 2%;
+  max-height: 5rem;
+}
+
+.post-caption h5 {
+  text-align: left;
+}
+
+.post-caption h5 span {
+  margin-left: 2%;
+}
+
+/*slick */
+
+.slick-dots {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+  padding: 1%;
+  list-style-type: none;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
+.slick-dots li {
+  margin: 0 0.25rem;
+}
+
+.slick-dots button {
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  padding: 0;
+
+  border: none;
+  border-radius: 100%;
+  background-color: rgb(144, 143, 143);
+
+  text-indent: -9999px;
+}
+
+.slick-dots li.slick-active button {
+  background-color: rgb(255, 255, 255);
+}
+
+.cmt-section {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  padding: 2%;
+  position: fixed;
+  width: 90%;
+  height: 70vh;
+  display: none;
+  border: 2px solid;
+  border-radius: 12px;
+  margin: auto;
+}
+
+.cmt-box {
+  align-items: center;
+  width: 100%;
+  margin-bottom: 2%;
+}
+
+.cmt-box,
+.cmt-feedback {
+  display: flex;
+}
+
+.cmt-box * {
+  margin: auto;
+}
+
+.cmt-content {
+  width: 70%;
+}
+
+.cmt-dp,
+.cmt-like-btn i {
+  width: 3rem;
+  height: 3rem;
+  font-size: 1.2rem;
+}
+
+.cmt-like-btn i {
+  text-align: right;
+  cursor: pointer;
+}
+
+.cmt-dp {
+  border-radius: 50%;
+  border-style: solid;
+  overflow: hidden;
+}
+
+.cmt-dp img {
+  object-fit: cover;
+}
+
+.commenter-name {
+  font-weight: bolder;
+}
+
+.cmt-feedback {
+  width: 75%;
+}
+
+.cmt-feedback * {
+  margin: auto;
+  cursor: pointer;
+}
+
+.user-cmt {
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  width: 80%;
+}
+
+.user-cmt :focus {
+  outline: none;
+  transform: none;
+}
+
+#post-cmt {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+#post-cmt:hover {
+  color: var(--font-color);
+}
+
+#post-cmt:focus {
+  color: rgb(136, 135, 135);
+}

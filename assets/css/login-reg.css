@@ -1,0 +1,95 @@
+html{
+  scroll-behavior: smooth;
+}
+img{
+  height: auto;
+}
+form{
+  all:unset;
+  background-color: var(--sidenav-bg-color);
+  color:var(--font-color);
+}
+body {
+  background-color: var(--sidenav-bg-color);
+}
+
+form p {
+  font-size: 120%;
+  color: var(--font-color);
+}
+
+.ctrlqHeaderMast {
+  height: 278px;
+  background: var(--theme-color);
+}
+
+.ctrlqFormContent {
+  padding: 20px 35px
+}
+
+.ctrlqFormContentWrapper {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  box-orient: vertical;
+  -webkit-flex-direction: column;
+  flex-direction: column
+}
+
+.ctrlqAccent {
+  background-color: var(--theme-color);
+  height: 8px;
+}
+.ctrlqCenteredContent {
+  margin: auto;
+  width:90%;
+}
+.ctrlqFormCard {
+  background-color: var(--sidenav-bg-color);
+  margin-bottom: 48px;
+  -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);
+  box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);
+  word-wrap: break-word
+}
+
+.ctrlqFormCard:first-of-type {
+  margin-top: -100px
+}
+
+.ctrlqHeaderTitle {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 34px;
+  line-height: 135%;
+  max-width: 100%;
+  min-width: 0%;
+  margin-bottom: 22px
+}
+
+@media (max-width: 660px) {
+  .ctrlqHeaderMast {
+    height: 122px;
+  }
+  .ctrlqFormCard:first-of-type {
+    margin-top: -50px;
+  }
+
+  .ctrlqCenteredContent {
+    width: 90%;
+  }
+}
+
+div.error {
+  position: relative;
+  top: -1rem;
+  left: 0rem;
+  font-size: 0.8rem;
+  color: #FF4081;
+  -webkit-transform: translateY(0%);
+  -ms-transform: translateY(0%);
+  -o-transform: translateY(0%);
+  transform: translateY(0%);
+}

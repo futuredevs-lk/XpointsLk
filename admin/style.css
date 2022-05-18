@@ -1,0 +1,82 @@
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 550px}
+    
+/* Set gray background color and 100% height */
+.sidenav {
+  background-color: #f1f1f1;
+  height: 100%;
+}
+    
+/* On small screens, set height to 'auto' for the grid */
+@media screen and (max-width: 767px) {
+  .row.content {height: auto;} 
+}
+
+.form-content{
+    display: flex;
+    align-items: center;
+}
+
+.article-btns{
+    margin-top: 2%;
+    display: flex;
+}
+.article-btns *{
+    width: 30%;
+    margin: auto;
+}
+.form-content .btn{
+    margin: auto;
+}
+.form-content .btn i{
+    font-size: 100%;
+}
+.input-group input, .form-content select{
+    width: 80%;
+}
+
+input[type="file"]{
+    display: none;
+  }
+
+  .new-feeds-container{
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    color:var(--transparent-font-color);
+}
+
+.new-feeds-content{
+    background-color: var(--transparent-bg-color);
+    display: flex;
+    margin-top: 2%;
+    align-items: center;
+}
+
+.new-feeds-content-scroll {
+    margin-top: 2%;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
+  max-height: 0;
+  transition: 0.2s ease-out;
+}
+/* .new-feeds-content{} */
+
+.content-thumbnail, .remove-content{
+    text-align: right;
+    width: 15%;
+    margin-right: 2%;
+    cursor: pointer;
+}
+.content-thumbnail img{
+    padding: 30%;
+}
+.content-desc{
+    overflow: auto;
+    width: 70%;
+    margin-top: 2%;
+}
+img{
+    width: 100%;
+    max-height: 100%;
+}

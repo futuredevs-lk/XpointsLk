@@ -1,0 +1,2 @@
+[22-Mar-2022 21:14:52 Asia/Kolkata] PHP Warning:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' (this will throw an Error in a future version of PHP) in /home/xpointsl/public_html/assets/php/nav.php on line 344
+[22-Mar-2022 21:14:52 Asia/Kolkata] PHP Warning:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' (this will throw an Error in a future version of PHP) in /home/xpointsl/public_html/assets/php/nav.php on line 344
