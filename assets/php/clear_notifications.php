@@ -6,4 +6,4 @@ if (isset($_POST['clear_all'])) {
 }
 
 
-require($_SERVER["DOCUMENT_ROOT"] . "/assets/php/db/dbclose.php");
+require($_SERVER["DOCUMENT_ROOT"] . "/assets/php/db/dbclose.php");    
