@@ -125,7 +125,7 @@ if (isset($_POST['delete-product'])) {
         if (mysqli_multi_query(
             $db,
             "DELETE from shop_product WHERE mc_id=$shop_mc_id and sc_id=$shop_sc_id;
-      DELETE from shop_sc WHERE sc_id=$shop_sc_id;"
+      DELETE from shop_sc WHERE id=$shop_sc_id;"
         )) {
             $_SESSION['message']['success'] = "All Products from '" . $_POST['main-cat'] . "' -> '" . $_POST['sub-cat'] . "' have been deleted!";
             header("location:shop-maintain.php");

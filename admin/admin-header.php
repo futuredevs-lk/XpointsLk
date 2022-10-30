@@ -55,6 +55,7 @@ if ($_SESSION['user']['admin'] == 0) {
                 <li><a href="./tg_manage_donation.php">TG Manage Donations</a></li>
                 <li><a href="./config_tasks.php">TG Task configuration</a></li>
                 <li><a href="./send_notification.php">Send Notification</a></li>
+                <li><a href="./promo_manager.php">Promo Manager</a></li>
                 <li><a href="/assets/php/logout.php">Log out.</a></li>
             </ul>
         </div>
