@@ -8,6 +8,7 @@ if ($_SESSION['user']['admin'] == 0) {
     header("location:/pages/not-an-admin.html");
     exit;
 }
+echo "<body class='desk-mw {$_SESSION["user"]["theme"]}'></body>";
 
 ?>
 <style>

@@ -126,7 +126,7 @@ input {
   font-weight: bold;
   color: var(--transparent-font-color);
 }
-h1,
+/* h1,
 i {
   font-size: 1.6rem;
 }
@@ -148,12 +148,11 @@ a,
 p,
 span {
   font-size: 0.7rem;
-}
+} */
 li {
   list-style: none;
 }
 .title {
-  font-size: 1.2rem;
   text-align: center;
 }
 
